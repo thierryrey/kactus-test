@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -7,7 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "B2548C05-6AFA-44C5-AB85-865A1AE2E751",
+  "changeIdentifier": 0,
+  "do_objectID": "AD8B3100-46F0-42BA-A724-7446BF5738BE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 320,
-    "x": 457,
-    "y": -33
+    "height": 169,
+    "width": 161,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -34,6 +35,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -41,8 +43,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "09B63156-5EDF-449D-BB44-B82C493136FD"
+    }
   ],
-  "name": "Mobile",
+  "name": "green_symbol",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -55,6 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "D0D4D28F-8B00-4CAE-9A07-CBA6C578DDF4",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
