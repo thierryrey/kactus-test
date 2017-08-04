@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "C27BAEB2-0993-4847-A555-553EE2CD6FA1",
+  "_class": "symbolInstance",
+  "do_objectID": "31AE6F81-B530-46A9-9F07-EA20CC4B3BBB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +13,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 232,
+    "width": 232,
+    "x": 289,
+    "y": 78
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -505,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "AD8B3100-46F0-42BA-A724-7446BF5738BE"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "054EEC91-417D-4856-B8CC-B36389882088"
-    }
-  ],
-  "name": "Symbols",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Oval",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -53,10 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -463,
-    "guides": [
-    ]
-  }
+  "symbolID": "EE61C537-FE5B-452B-947F-41770F5CBF6A",
+  "verticalSpacing": 0
 }

@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "C27BAEB2-0993-4847-A555-553EE2CD6FA1",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "13283A83-DE95-4EB4-A3F9-D609FF3F65F6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 1024,
+    "width": 768,
+    "x": 877,
+    "y": -33
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -505,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,16 +42,13 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "AD8B3100-46F0-42BA-A724-7446BF5738BE"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "054EEC91-417D-4856-B8CC-B36389882088"
+      "class": "symbolInstance",
+      "id": "31AE6F81-B530-46A9-9F07-EA20CC4B3BBB"
     }
   ],
-  "name": "Symbols",
+  "name": "Tablet",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -55,7 +61,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -463,
+    "base": 0,
     "guides": [
     ]
   }
