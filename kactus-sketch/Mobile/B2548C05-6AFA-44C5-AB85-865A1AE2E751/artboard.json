@@ -22,11 +22,11 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 320,
-    "x": 457,
+    "x": 464,
     "y": -33
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
